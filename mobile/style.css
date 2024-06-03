@@ -2114,7 +2114,7 @@ background:url(images/dropdown.png) no-repeat right;
 .loginform .form_select option{
 padding:3px;
 }
-.loginform input.form_submit{ 
+.loginform .form_submit{ 
 width:100%;
 padding:12px 0; 
 margin:10px 0 0 0; 
